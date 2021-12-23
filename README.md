@@ -1,3 +1,8 @@
+# Cryptocurrencies(Global)
+API src : https://www.coinlore.com/cryptocurrency-data-api & https://serpapi.com/playground?q=crypto+4k+images&tbm=isch&ijn=0
+
+In this project, we are shown of the what is currently happening in the Global Cryptocurrency Market in USD using our API of source.
+
 # React Starter w/ Express Server, using Webpack
 
 This is a project template that can be used to quickly start a react project. It has minimal dependencies and has a server route that you can use to proxy requests without exposing your api keys.
